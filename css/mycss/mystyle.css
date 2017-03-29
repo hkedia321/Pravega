@@ -1,0 +1,109 @@
+nav .active{
+	/*background-color: red !important;*/
+}
+header.primary-header--fixed-nav{
+	display: none;/*temporary*/
+}
+footer{
+	padding-top: 20px !important;
+	padding-bottom: 20px !important;
+}
+
+.nav-grid-container{
+	max-width: 1250px;
+}
+.inline-block{
+	display: inline-block;
+}
+.color-black{
+	color: #000;
+}
+.border{
+	border: solid 2px #000;
+}
+.borderred{
+	border: solid 2px red;
+}
+.footer-logo{
+	max-width: 100%;
+	display: block;
+}
+.redcolor{
+	color: #c73131;
+}
+.padlr_new{
+	padding-left: 3px;
+	padding-right: 3px;
+}
+.padl_new{
+	padding-left: 3px;
+}
+.margin-left-0{
+	margin-left: 0px !important;
+}
+.acmvitlinkfa{
+	transition: all 0.3s ease;
+}
+.acmvitlink{
+	font-size: 0.75rem;
+	display: inline !important;
+}
+	 
+.acmvitlink:hover .acmvitlinkfa{
+	color: #071871 !important;
+}
+
+.acmlogo{
+	width: 78%;;
+}
+.acmlogo{
+	margin-left: auto;
+	margin-right: auto;
+}
+footer .social-icon{
+	text-align: center;
+}
+@media (min-width: 779px){
+
+	.padlr_new{
+		padding-left: 70px;
+		padding-right: 70px;
+	}
+	.padl_new{
+		padding-left: 70px;
+	}
+	.padr_new{
+		padding-right: 70px;
+	}
+	.hidden-big{
+		display: none !important; 
+	}
+	.acmlogodiv{
+		margin-top: 5.4rem;
+		padding-left: 7rem !important;
+		padding-right: 0rem !important;
+		margin-right: 0px !important;
+		text-align: right !important;
+	}
+	.acmlogo{
+		width: 84%;
+		margin-left: 2rem;
+	}
+
+}
+
+@media (max-width: 769px){
+	.hidden-small{
+		display: none !important; 
+	}
+	.sponsorsfooter footer{
+		padding: 0.5rem;
+	}
+	.developedacm{
+		text-align: center;
+	}
+	.acmvitlink{
+		font-size: 0.72rem;
+	}
+}
+/*--------------uppar mein common elements----------*/

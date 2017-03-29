@@ -1,0 +1,11 @@
+
+ol,ul {
+	list-style:none;
+}
+
+
+
+.container{
+	position: relative;
+	text-align: center;
+}

@@ -1,0 +1,46 @@
+
+.layer {
+	background-color: rgba(0, 0, 0, 0.9);
+}
+
+.sponsordiv .overlay__background {
+	background-color: rgba(0, 0, 0, 0.8);
+}
+.sponsordiv .overlay__content-heading{
+	color: #fff;
+}
+.sponsordiv{
+	cursor: pointer;
+}
+.sponsordiv img{
+	height: auto;
+	max-height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.img-div-upper{
+height: 140px;
+}
+.img-div-upper-gold{
+	height: 120px;
+}
+.img-div-upper-silver{
+	height: 120px;
+}
+.img-div-upper-bronze{
+	height: 120px;
+}
+.heading-sponsor{
+	font-size: 3rem;
+	text-align: center;
+	margin-top: 5rem;
+}
+.heading-sponsor-title{
+	margin-top: 0rem;
+}
+@media (max-width: 760px)
+{
+	.padl{
+		padding-left: 40px;
+	}
+}

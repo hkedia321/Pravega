@@ -1,0 +1,131 @@
+.section-white{
+	min-height: auto;
+	background-color: #fff;
+	color: #000;
+}
+.color-red{
+	color: #dc092f;
+}
+.color-white{
+	color: #fff;
+}
+.section-white .para{
+	text-align: center;
+	vertical-align: middle;
+}
+.section-white .heading{
+	text-align: center;
+}
+.section-white .contentt{
+	margin: 15% 0px;
+}
+
+
+.parallax{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.parallax .heading, .parallax .subheading{
+
+	vertical-align: middle;
+}
+#sec2 .subheading{
+	padding: 0px 30px;
+}
+.things{
+	padding: 0.2rem;
+	background-color: #98091f;
+	vertical-align: middle;
+	margin:auto 0px;
+	font-size: 1rem;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+.describe{
+	padding: 0.2rem;
+	background-color: #171717;
+	vertical-align: middle;
+	margin:auto 0px;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+.things-desc-div{
+	vertical-align: middle;
+}
+
+main section a{
+	text-decoration: none;
+	color: #fff;
+	transition: all ease 0.5s;
+}
+main section a:hover{
+	color: #dc092f;
+}
+#sec3{
+	width: 100vw;
+	padding-bottom: 130px;
+}
+#sec3 .subheading{
+	padding: 0px;
+}
+
+.benefits-ul{
+	list-style: none;
+	list-style-image: url('../../img/general/list_style_tick.png');
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
+}
+.benefits-ul li{
+	vertical-align: middle;
+}
+
+.interested-ul{
+	list-style: none;
+	list-style-image: url('../../img/general/list_style_arrow.png');
+	
+}
+#sed4 h2,#sec4 h4{
+	font-weight: bold !important;
+}
+.bolderr{
+	font-weight: 700 !important;
+}
+.padl_new{
+		padding-left: 20px;
+	}
+@media (min-width: 769px)
+{
+	.section-white .contentt{
+		margin: 11% 30px;
+	}
+	.section-white .para{
+		padding-left: 90px;
+		padding-right: 90px;
+	}
+	.padl_new{
+		padding-left: 20px;
+	}
+	#sec2 .firstdiv{
+		margin-top: 40px;
+	}
+	#sec3 .firstdiv{
+		margin-top: 100px;
+	}
+}
+@media (max-width: 769px)
+{
+	.things-desc-div{
+		margin-left: -20px;
+		margin-right: -90px;
+		padding-right: 0px;
+	}
+	.thoda-chota{
+		font-size: 0.9rem;
+	}
+	#sec3{
+		padding-bottom: 50px !important;
+	}
+}

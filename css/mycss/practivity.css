@@ -1,0 +1,50 @@
+.sub-header-banner-practivity{
+	background-image:  url('../../img/general/bgs/practivitybg.png');
+}
+.parallax--banner-pr_1{
+	background-image: url('../../img/general/practivity/dragrace2016/1.png');
+}
+
+.activity-title{
+	color: #dc092f;
+	margin-top: 20px;
+}
+.activity-photo-iframe{
+	box-shadow: none;
+	border: none;
+	height: 460px;
+	margin-left: 0px;
+	margin-bottom: 3rem;
+	display: block !important;
+	
+}
+.iframediv{
+	display: block;
+	width: 100%;
+}
+.activity-wrapper{
+	margin-bottom: 2rem;
+}
+.activity-wrapper *{
+	display: block !important;
+}
+p.activity-para {
+    font-size: 1.1rem;
+}
+@media (max-width: 769px)
+{
+	.activity-photo-iframe{
+		height: 60vw;
+		margin-left: -10px !important;
+		float: left !important;
+		width: 98vw !important;
+		padding-left: 0px !important;
+	}
+}
+@media (min-width:769px)
+{
+	.activity-wrapper{
+		margin-left: 2rem;
+		margin-right: 2rem;
+	}
+}
