@@ -30,7 +30,7 @@
 				<br class="hidden-big"><br class="hidden-big">
 			</div>
 			<div class="col-xs-6 col-md-3 acmlogodiv hidden-small">
-				<a class="link copyright acmvitlink" target="_blank" href="http://acmvit.com">
+				<a class="link copyright acmvitlink" target="_blank" href="http://acmvit.in">
 					<img src="img/general/acmlogo.png" class="footer-logo acmlogo">
 					<div class="developedacm">&copy; Developed with <i class="fa fa-heart acmvitlinkfa" aria-hidden="true"></i> by ACM-VIT</div>
 				</a>
