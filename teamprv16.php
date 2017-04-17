@@ -220,6 +220,34 @@ include_once('includes/head.php');
 								<div class='overlay team-member-wrapper'>
 									<div class='overlay__background'></div>
 									<div class='overlay__content text-center text-color-2'>
+										<span class='overlay__content-heading'>Rishab Khanna</span>
+										<span class='overlay__content-text'><b></b></span>
+
+									</div>
+									<img src='img/general/teams/prv16/rishabhkhanna.jpg' alt='abhijai' class='overlay__image teamphoto'>
+									<div class='text-center'><b>Rishab Khanna</b></div>
+									<br>
+								</div>
+							</div>
+
+							<div class='col-md-2 col-sm-3 col-xs-6'>
+								<div class='overlay team-member-wrapper'>
+									<div class='overlay__background'></div>
+									<div class='overlay__content text-center text-color-2'>
+										<span class='overlay__content-heading'>Ashish Chadda</span>
+										<span class='overlay__content-text'><b></b></span>
+
+									</div>
+									<img src='img/general/teams/prv16/ashishchadha.jpg' alt='abhijai' class='overlay__image teamphoto'>
+									<div class='text-center'><b>Ashish Chadda</b></div>
+									<br>
+								</div>
+							</div>
+
+							<div class='col-md-2 col-sm-3 col-xs-6'>
+								<div class='overlay team-member-wrapper'>
+									<div class='overlay__background'></div>
+									<div class='overlay__content text-center text-color-2'>
 										<span class='overlay__content-heading'>Aditya Jain</span>
 										<span class='overlay__content-text'><b></b></span>
 

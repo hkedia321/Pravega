@@ -24,9 +24,9 @@ include_once('includes/head.php');
 		padding-top: 3rem !important;
 	}
 	.parallax__background_events {
-    background-attachment: fixed;
-    background-size: cover;
-}
+		background-attachment: fixed;
+		background-size: cover;
+	}
 	.primary-header{
 		
 	}
@@ -34,198 +34,199 @@ include_once('includes/head.php');
 </style>
 </head>
 <body class="flagstone-about-us">
-<div class="body-next-1 parallax__background_events">
-<div class="body-next-2">
-	<div id="preloader">
-		<div id="status">&nbsp;</div>
-	</div>
-
-
-	<!-- End of page pre-loader -->
-
-	<?php
-	$navactive="events";
-	require_once('includes/nav.php');
-	?>
-
-	<!-- End of site main header -->
-	<section class="background-color-11 sub-header">
-		<div class=" ">
-			
-		</div>
-		<div class="grid-container">
-			<div class="grid-row">
-				<div class="column-12 animated-parent">
-					<h2 class="text-color-10 animated animate__fade-in-left-short text-center">Events</h2>
-					<h5 class="text-color-10 animated animate__fade-in-right-short text-center">
-						<span class="text-decor animated animate__roll-in"></span>
-					</h5>
-				</div>
+	<div class="body-next-1 parallax__background_events">
+		<div class="body-next-2">
+			<div id="preloader">
+				<div id="status">&nbsp;</div>
 			</div>
-		</div>
-	</section>
-		
-		<section id="cd-timeline" class="cd-container">
-		<!-- minus 1 block-->
-			<div class="cd-timeline-block" id="cd_block6">
-				<div class="cd-timeline-img cd-picture">
-					<!-- <img src="img/general/cars/prv16.png" class="" alt="Picture"> -->
-					<h3 class="cd-img-date">17'</h3>
+
+
+			<!-- End of page pre-loader -->
+
+			<?php
+			$navactive="events";
+			require_once('includes/nav.php');
+			?>
+
+			<!-- End of site main header -->
+			<section class="background-color-11 sub-header">
+				<div class=" ">
+
 				</div>
-				<div class="cd-timeline-content">
-					<h2 class="cd-heading">Formula Bharat</h2>
-					<p class="cd-intro"><b>PRV 17 - Car that raced to be the best in India.</b></p>
-					<a href="#0" class="cd-read-more">show more</a>
-					<div class="show_on_more">
-						<ul>
-							<li>1<sup>st</sup> in Autocross</li>
-							<li>1<sup>st</sup> in Acceleration</li>
-							<li>1<sup>st</sup> in Cost Event</li>
-							<li>1<sup>st</sup> in Business Presentation Event</li>
-							<li>2<sup>nd</sup> in Skidpad</li>
-							<li>2<sup>nd</sup> in Endurance</li>
-							<li>Special Award for Spirit of FSI</li>
-							<li>Best Driver Award</li>
-							
-						</ul>
+				<div class="grid-container">
+					<div class="grid-row">
+						<div class="column-12 animated-parent">
+							<h2 class="text-color-10 animated animate__fade-in-left-short text-center">Events</h2>
+							<h5 class="text-color-10 animated animate__fade-in-right-short text-center">
+								<span class="text-decor animated animate__roll-in"></span>
+							</h5>
+						</div>
 					</div>
-					<!-- <span class="cd-date">Jan 14</span> -->
-				</div> 
-			</div>
-
-			<!-- first block-->
-			<div class="cd-timeline-block" id="cd_block5">
-				<div class="cd-timeline-img cd-picture">
-					<!-- <img src="img/general/cars/prv16.png" class="" alt="Picture"> -->
-					<h3 class="cd-img-date">16'</h3>
 				</div>
-				<div class="cd-timeline-content">
-					<h2 class="cd-heading">Formula Student Germany 2016</h2>
-					<p class="cd-intro"><b><a href="cars.php?select=prv16">PRV 16</a> was the fastest among all Indian teams.</b></p>
-					<a href="#0" class="cd-read-more">show more</a>
-					<div class="show_on_more">
-						<ul>
-							<li>13<sup>th</sup> in Business Presentation Event</li>
-							<li>39<sup>th</sup> in Design Event</li>
-							<li>40<sup>th</sup> in Cost Event</li>
-							<li>37<sup>th</sup> in Acceleration Event(<i>4.65 seconds</i>)</li>
-							<li>41<sup>th</sup> in Skidpad Event(<i>6.39 seconds</i>)</li>
-							<li>53<sup>th</sup> in AutoCross Event(<i>87.88 seconds</i>)</li>
-						</ul>
-					</div>
-					<!-- <span class="cd-date">Jan 14</span> -->
-				</div> 
-			</div>
+			</section>
 
-			<!--Second block-->
-			<div class="cd-timeline-block" id="cd_block4">
-				<div class="cd-timeline-img cd-picture">
-					<h3 class="cd-img-date">16'</h3>
+			<section id="cd-timeline" class="cd-container">
+				<!-- minus 1 block-->
+				<div class="cd-timeline-block" id="cd_block6">
+					<div class="cd-timeline-img cd-picture">
+						<!-- <img src="img/general/cars/prv16.png" class="" alt="Picture"> -->
+						<h3 class="cd-img-date">17'</h3>
+					</div>
+					<div class="cd-timeline-content">
+					<h2 class="cd-heading">Formula Bharat 2017</h2>
+						<p class="cd-intro"><b>PRV 17 - Car that raced to be the best in India.</b></p>
+						<a href="#0" class="cd-read-more">show more</a>
+						<div class="show_on_more">
+							<ul>
+								<li>1<sup>st</sup> overall</li>
+								<li>1<sup>st</sup> in Autocross</li>
+								<li>1<sup>st</sup> in Acceleration</li>
+								<li>1<sup>st</sup> in Cost Event</li>
+								<li>1<sup>st</sup> in Business Presentation Event</li>
+								<li>2<sup>nd</sup> in Skidpad</li>
+								<li>2<sup>nd</sup> in Endurance</li>
+								<li>Special Award for Spirit of FSI</li>
+								<li>Best Driver Award</li>
+
+							</ul>
+						</div>
+						<!-- <span class="cd-date">Jan 14</span> -->
+					</div> 
 				</div>
-				<div class="cd-timeline-content">
-					<h2 class="cd-heading">Formula Student India 2016</h2>
-					<p class="cd-intro"><b>Won 7/11 Trophies</b></p>
-					<a href="#0" class="cd-read-more">show more</a>
-					<div class="show_on_more">
-						<ul>
-							<li>1<sup>st</sup> in Acceleration Event</li>
-							<li>1<sup>st</sup> in Skidpad Event</li>
-							<li>1<sup>st</sup> in Business Presentation Event</li>
-							<li>3<sup>rd</sup> in Engineering Design Event</li>
-							<li>3<sup>rd</sup> in Cost &amp; Manufacturing Event</li>
-							<li>Special Awards for <i>Spirit of FSI</i> and <i>Cleanest Pit</i></li>
-						</ul>
-					</div>
-				</div> 
-			</div>
 
-			<!-- third block-->
-			<div class="cd-timeline-block" id="cd_block3">
-				<div class="cd-timeline-img cd-picture">
-					<h3 class="cd-img-date">15'</h3>
+				<!-- first block-->
+				<div class="cd-timeline-block" id="cd_block5">
+					<div class="cd-timeline-img cd-picture">
+						<!-- <img src="img/general/cars/prv16.png" class="" alt="Picture"> -->
+						<h3 class="cd-img-date">16'</h3>
+					</div>
+					<div class="cd-timeline-content">
+						<h2 class="cd-heading">Formula Student Germany 2016</h2>
+						<p class="cd-intro"><b><a href="cars.php?select=prv16">PRV 16</a> was the fastest among all Indian teams.</b></p>
+						<a href="#0" class="cd-read-more">show more</a>
+						<div class="show_on_more">
+							<ul>
+								<li>13<sup>th</sup> in Business Presentation Event</li>
+								<li>39<sup>th</sup> in Design Event</li>
+								<li>40<sup>th</sup> in Cost Event</li>
+								<li>37<sup>th</sup> in Acceleration Event(<i>4.65 seconds</i>)</li>
+								<li>41<sup>th</sup> in Skidpad Event(<i>6.39 seconds</i>)</li>
+								<li>53<sup>th</sup> in AutoCross Event(<i>87.88 seconds</i>)</li>
+							</ul>
+						</div>
+						<!-- <span class="cd-date">Jan 14</span> -->
+					</div> 
 				</div>
-				<div class="cd-timeline-content">
-					<h2 class="cd-heading">Formula Student Germany 2015</h2>
-					<p class="cd-intro"><b>This was the best statics result by any Indian team in Formula Student Germany history</b></p>
-					<a href="#0" class="cd-read-more">show more</a>
-					<div class="show_on_more">
-						<ul>
-							<li>8<sup>th</sup> in Cost &amp; Manufacturing Event</li>
-							<li>10<sup>th</sup> in Business Presentation Event</li>
-							<li>21<sup>st</sup> in Engineering Design Event</li>
-						</ul>
-					</div>
-				</div> 
-			</div>
 
-			<!--fourth block-->
-			<div class="cd-timeline-block" id="cd_block2">
-				<div class="cd-timeline-img cd-picture">
-					<h3 class="cd-img-date">15'</h3>
+				<!--Second block-->
+				<div class="cd-timeline-block" id="cd_block4">
+					<div class="cd-timeline-img cd-picture">
+						<h3 class="cd-img-date">16'</h3>
+					</div>
+					<div class="cd-timeline-content">
+						<h2 class="cd-heading">Formula Student India 2016</h2>
+						<p class="cd-intro"><b>Won 7/11 Trophies</b></p>
+						<a href="#0" class="cd-read-more">show more</a>
+						<div class="show_on_more">
+							<ul>
+								<li>1<sup>st</sup> in Acceleration Event</li>
+								<li>1<sup>st</sup> in Skidpad Event</li>
+								<li>1<sup>st</sup> in Business Presentation Event</li>
+								<li>3<sup>rd</sup> in Engineering Design Event</li>
+								<li>3<sup>rd</sup> in Cost &amp; Manufacturing Event</li>
+								<li>Special Awards for <i>Spirit of FSI</i> and <i>Cleanest Pit</i></li>
+							</ul>
+						</div>
+					</div> 
 				</div>
-				<div class="cd-timeline-content">
-					<h2 class="cd-heading">JK Tyre Formula Design Challenge 2015</h2>
-					<p class="cd-intro"><b>We set the national record of completing the autocross lap in 1 minute 23 seconds which is still un-beaten</b></p>
-					<a href="#0" class="cd-read-more">show more</a>
-					<div class="show_on_more">
-						<ul>
-							<li>3<sup>rd</sup> overall</li>
-							<li>2<sup>nd</sup> in Engineering Design Event</li>
-							<li>2<sup>nd</sup> in AutoCross Event</li>
-							<li>3<sup>rd</sup> in Business Presentation Event</li>
-							<li>3<sup>rd</sup> in Cost &amp; Manufacturing Event</li>
-							<li>3<sup>rd</sup> in Skipad Event</li>
-						</ul>
-					</div>
-				</div> 
-			</div>
 
-			<!--Fivth block-->
-			<div class="cd-timeline-block" id="cd_block1">
-				<div class="cd-timeline-img cd-picture">
-					<h3 class="cd-img-date">14'</h3>
+				<!-- third block-->
+				<div class="cd-timeline-block" id="cd_block3">
+					<div class="cd-timeline-img cd-picture">
+						<h3 class="cd-img-date">15'</h3>
+					</div>
+					<div class="cd-timeline-content">
+						<h2 class="cd-heading">Formula Student Germany 2015</h2>
+						<p class="cd-intro"><b>This was the best statics result by any Indian team in Formula Student Germany history</b></p>
+						<a href="#0" class="cd-read-more">show more</a>
+						<div class="show_on_more">
+							<ul>
+								<li>8<sup>th</sup> in Cost &amp; Manufacturing Event</li>
+								<li>10<sup>th</sup> in Business Presentation Event</li>
+								<li>21<sup>st</sup> in Engineering Design Event</li>
+							</ul>
+						</div>
+					</div> 
 				</div>
-				<div class="cd-timeline-content">
-					<h2 class="cd-heading">Formula Student Germany 2014</h2>
-					<p class="cd-intro"><b>We were the Only Indian team to complete the entire Technical Inspection and compete in all the Dynamic Events</b></p>
-					<a href="#0" class="cd-read-more">show more</a>
-					<div class="show_on_more">
-						<p>
-							In 2014 we decided to move to Formula Student Germany as it is considered the biggest event in the Formula Student Circuit. Our first experience at the biggest stage was a valuable one and we learned a lot of new things from the top teams in the world. We had a great result here as we were the Only Indian team to complete the entire Technical Inspection and compete in all the Dynamic Events.
-						</p>
-					</div>
-				</div> 
-			</div>
 
-			<!--Sixth block-->
-			<div class="cd-timeline-block" id="cd_block0">
-				<div class="cd-timeline-img cd-picture">
-					<h3 class="cd-img-date">13'</h3>
+				<!--fourth block-->
+				<div class="cd-timeline-block" id="cd_block2">
+					<div class="cd-timeline-img cd-picture">
+						<h3 class="cd-img-date">15'</h3>
+					</div>
+					<div class="cd-timeline-content">
+						<h2 class="cd-heading">JK Tyre Formula Design Challenge 2015</h2>
+						<p class="cd-intro"><b>We set the national record of completing the autocross lap in 1 minute 23 seconds which is still un-beaten</b></p>
+						<a href="#0" class="cd-read-more">show more</a>
+						<div class="show_on_more">
+							<ul>
+								<li>3<sup>rd</sup> overall</li>
+								<li>2<sup>nd</sup> in Engineering Design Event</li>
+								<li>2<sup>nd</sup> in AutoCross Event</li>
+								<li>3<sup>rd</sup> in Business Presentation Event</li>
+								<li>3<sup>rd</sup> in Cost &amp; Manufacturing Event</li>
+								<li>3<sup>rd</sup> in Skipad Event</li>
+							</ul>
+						</div>
+					</div> 
 				</div>
-				<div class="cd-timeline-content">
-					<h2 class="cd-heading">Formula Student Italy 2013</h2>
-					<p class="cd-intro"><b>Overall 20<sup>th</sup> position in the world out of the 45 competing teams</b></p>
-					<a href="#0" class="cd-read-more">show more</a>
-					<div class="show_on_more">
-						<ul>
-							<li>2<sup>nd</sup> position in the cost event</li>
-							<li>11<sup>th</sup> in Business Plan Event</li>
-							<li>19<sup>th</sup> in Design Event</li>
-						</ul>
+
+				<!--Fivth block-->
+				<div class="cd-timeline-block" id="cd_block1">
+					<div class="cd-timeline-img cd-picture">
+						<h3 class="cd-img-date">14'</h3>
 					</div>
-				</div> 
-			</div>
-		</section> <!-- cd-timeline -->
+					<div class="cd-timeline-content">
+						<h2 class="cd-heading">Formula Student Germany 2014</h2>
+						<p class="cd-intro"><b>We were the Only Indian team to complete the entire Technical Inspection and compete in all the Dynamic Events</b></p>
+						<a href="#0" class="cd-read-more">show more</a>
+						<div class="show_on_more">
+							<p>
+								In 2014 we decided to move to Formula Student Germany as it is considered the biggest event in the Formula Student Circuit. Our first experience at the biggest stage was a valuable one and we learned a lot of new things from the top teams in the world. We had a great result here as we were the Only Indian team to complete the entire Technical Inspection and compete in all the Dynamic Events.
+							</p>
+						</div>
+					</div> 
+				</div>
+
+				<!--Sixth block-->
+				<div class="cd-timeline-block" id="cd_block0">
+					<div class="cd-timeline-img cd-picture">
+						<h3 class="cd-img-date">13'</h3>
+					</div>
+					<div class="cd-timeline-content">
+						<h2 class="cd-heading">Formula Student Italy 2013</h2>
+						<p class="cd-intro"><b>Overall 20<sup>th</sup> position in the world out of the 45 competing teams</b></p>
+						<a href="#0" class="cd-read-more">show more</a>
+						<div class="show_on_more">
+							<ul>
+								<li>2<sup>nd</sup> position in the cost event</li>
+								<li>11<sup>th</sup> in Business Plan Event</li>
+								<li>19<sup>th</sup> in Design Event</li>
+							</ul>
+						</div>
+					</div> 
+				</div>
+			</section> <!-- cd-timeline -->
 
 
-	<a href="#" class="back-to-top--floating"><i class="ion-ios-arrow-up"></i></a>
-	<?php
-	include_once("includes/footer.php");
-	?>
-	<script>
-		jQuery(document).ready(function($){
-			var timelineBlocks = $('.cd-timeline-block'),
-			offset = 0.8;
+			<a href="#" class="back-to-top--floating"><i class="ion-ios-arrow-up"></i></a>
+			<?php
+			include_once("includes/footer.php");
+			?>
+			<script>
+				jQuery(document).ready(function($){
+					var timelineBlocks = $('.cd-timeline-block'),
+					offset = 0.8;
 
 	//hide timeline blocks which are outside the viewport
 	hideBlocks(timelineBlocks, offset);

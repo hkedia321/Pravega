@@ -160,13 +160,10 @@ if(isset($_POST['contactsubmit']))
 									<i class="fa fa-phone" aria-hidden="true"></i> Management Department
 								</div>
 								<div class="mang-collapse collapse">
-									&nbsp;Arnav Patel +91 76398028020
+									&nbsp;Arnav Patel +91 7639802820
 									<br>
-									(<span class="thoda-light">Management Head</span>)
-									<br class="team-br">
-									&nbsp;Ashish Chadda +91 9944110344
-									<br>
-									(<span class="thoda-light">Marketing Head</span>)
+									(<span class="thoda-light">Team Manager</span>)
+								
 								</div>
 							</span>
 						</div>
