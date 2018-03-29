@@ -3,6 +3,7 @@ session_start();
 $title="Pravega Racing - Admin Space";
 include_once('includes/head.php');
 global $error;
+
 global $adminPassword;
 if(!isset($error))
 	$error="";
