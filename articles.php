@@ -2,6 +2,7 @@
 $title="Pravega Racing - Online Articles";
 include_once('includes/head.php');
 ?>
+
 <link rel="stylesheet" type="text/css" href="css/mycss/nothome.css">
 <style type="text/css">
 	.teamphoto{
